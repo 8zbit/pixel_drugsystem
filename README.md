@@ -1,7 +1,7 @@
 # pixel_drugsystem
 Author: pixel57#5718
 
-Made for: ParadiseRP.PL (http://discord.paradiserp.pl)
+Made for: ParadiseRP.pl (http://discord.paradiserp.pl)
 
 Version: 1.1
 
